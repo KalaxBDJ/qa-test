@@ -4,7 +4,11 @@ import Data from '../data/data.json';
 
 test('Complete Challange', async ({ page }) => {
   await page.goto('https://www.theautomationchallenge.com');
+  await login(page);
+  await completeChallange(page);
+});
 
+async function login(page) {
   const signUpButton = page.getByRole('button', { name: 'SIGN UP OR LOGIN' })
   await expect(signUpButton).toBeVisible();
   await signUpButton.click();
@@ -23,7 +27,9 @@ test('Complete Challange', async ({ page }) => {
 
   // Check if the user is logged in
   await expect(page.getByRole('button', { name: 'Santiago', exact: true })).toBeVisible();
+}
 
+async function completeChallange(page) {
   // Start Challange
   await page.getByRole('button', { name: 'Start', exact: true }).click();
 
@@ -32,10 +38,24 @@ test('Complete Challange', async ({ page }) => {
 
   for (const data of Data) {
     await fillChallangeInput(page, 'EIN', data.employer_identification_number);
+    await fillChallangeInput(page, 'Sector', data.sector);
+    await fillChallangeInput(page, 'Company Name', data.company_name);
+    await fillChallangeInput(page, 'Automation Tool', data.automation_tool);
+    await fillChallangeInput(page, 'Annual Saving', data.annual_automation_saving);
+    await fillChallangeInput(page, 'Address', data.company_address);
+    await fillChallangeInput(page, 'Date', data.date_of_first_project);
+    await captchaValidation(page);
     await page.getByRole('button', { name: 'Submit', exact: true, includeHidden: false }).click();
-    //TODO: Falta validar el captcha, pasa algo con el boton de submit y validar el resto de los campos.
   }
-});
+}
+
+async function captchaValidation(page) {
+  const captchaButton = await page.getByRole('button', { name: 'presentation', exact: true });
+  if (await captchaButton.isVisible()) {
+    await captchaButton.click();
+    await captchaButton.waitFor({ state: 'hidden' });
+  }
+}
 
 async function fillChallangeInput(page, searchText, value) {
   const visibleLabel = page.locator(`div.content:has-text("${searchText}"):visible`).first();
