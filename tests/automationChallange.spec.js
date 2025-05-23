@@ -6,7 +6,13 @@ test('Complete Challange', async ({ page }) => {
   await page.goto('https://www.theautomationchallenge.com');
   await login(page);
   await completeChallange(page);
+  await challangeResult(page);
 });
+
+async function challangeResult(page){
+  await page.getByRole('button', { name: 'Santiago', exact: true }).click();
+  await expect(page.getByText('100%', { exact: true })).toBeVisible();
+}
 
 async function login(page) {
   const signUpButton = page.getByRole('button', { name: 'SIGN UP OR LOGIN' })
