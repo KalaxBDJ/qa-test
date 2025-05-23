@@ -1,0 +1,452 @@
+[
+    {
+        "employer_identification_number": "80-1579069",
+        "company_name": "Meetz",
+        "sector": "Technology",
+        "company_address": "9 Thompson Center",
+        "automation_tool": "UiPath",
+        "annual_automation_saving": "$282317.42",
+        "date_of_first_project": "25/07/2019"
+    },
+    {
+        "employer_identification_number": "87-5018740",
+        "company_name": "Rhybox",
+        "sector": "Consumer Services",
+        "company_address": "54 Harbort Way",
+        "automation_tool": "Python",
+        "annual_automation_saving": "$813313.08",
+        "date_of_first_project": "15/09/2019"
+    },
+    {
+        "employer_identification_number": "62-8933114",
+        "company_name": "Rhyzio",
+        "sector": "Energy",
+        "company_address": "97 Montana Trail",
+        "automation_tool": "Blueprism",
+        "annual_automation_saving": "$3654561.03",
+        "date_of_first_project": "12/05/2021"
+    },
+    {
+        "employer_identification_number": "92-5273061",
+        "company_name": "Jayo",
+        "sector": "n/a",
+        "company_address": "1 Cherokee Pass",
+        "automation_tool": "Microsoft Power Automate",
+        "annual_automation_saving": "$641180.04",
+        "date_of_first_project": "29/03/2018"
+    },
+    {
+        "employer_identification_number": "38-9011924",
+        "company_name": "Buzzshare",
+        "sector": "Consumer Services",
+        "company_address": "677 Magdeline Lane",
+        "automation_tool": "Selenium",
+        "annual_automation_saving": "$9178369.68",
+        "date_of_first_project": "11/01/2022"
+    },
+    {
+        "employer_identification_number": "12-2358361",
+        "company_name": "Browsedrive",
+        "sector": "Health Care",
+        "company_address": "0814 Crownhardt Terrace",
+        "automation_tool": "Python",
+        "annual_automation_saving": "$2983461.21",
+        "date_of_first_project": "29/05/2019"
+    },
+    {
+        "employer_identification_number": "96-8033504",
+        "company_name": "Jabbersphere",
+        "sector": "Finance",
+        "company_address": "808 Nancy Point",
+        "automation_tool": "UiPath",
+        "annual_automation_saving": "$2029971.17",
+        "date_of_first_project": "14/07/2021"
+    },
+    {
+        "employer_identification_number": "63-7890035",
+        "company_name": "Pixoboo",
+        "sector": "Finance",
+        "company_address": "37 Garrison Road",
+        "automation_tool": "Microsoft Power Automate",
+        "annual_automation_saving": "$9421042.94",
+        "date_of_first_project": "26/12/2022"
+    },
+    {
+        "employer_identification_number": "47-2219509",
+        "company_name": "Lazz",
+        "sector": "Public Utilities",
+        "company_address": "024 Charing Cross Road",
+        "automation_tool": "Selenium",
+        "annual_automation_saving": "$6625426.81",
+        "date_of_first_project": "02/08/2017"
+    },
+    {
+        "employer_identification_number": "25-7471407",
+        "company_name": "Oba",
+        "sector": "Finance",
+        "company_address": "787 David Place",
+        "automation_tool": "Blueprism",
+        "annual_automation_saving": "$8892471.99",
+        "date_of_first_project": "07/11/2017"
+    },
+    {
+        "employer_identification_number": "71-1625217",
+        "company_name": "Leexo",
+        "sector": "n/a",
+        "company_address": "83449 Becker Drive",
+        "automation_tool": "Other",
+        "annual_automation_saving": "$1993747.06",
+        "date_of_first_project": "03/01/2020"
+    },
+    {
+        "employer_identification_number": "39-7237352",
+        "company_name": "Zoombeat",
+        "sector": "Health Care",
+        "company_address": "15 Dayton Parkway",
+        "automation_tool": "Microsoft Power Automate",
+        "annual_automation_saving": "$7895436.65",
+        "date_of_first_project": "02/01/2022"
+    },
+    {
+        "employer_identification_number": "62-4470052",
+        "company_name": "Vinder",
+        "sector": "Health Care",
+        "company_address": "90 Fremont Park",
+        "automation_tool": "Other",
+        "annual_automation_saving": "$6066843.46",
+        "date_of_first_project": "13/11/2017"
+    },
+    {
+        "employer_identification_number": "30-6320283",
+        "company_name": "Agivu",
+        "sector": "n/a",
+        "company_address": "36 Muir Center",
+        "automation_tool": "Other",
+        "annual_automation_saving": "$8577367.58",
+        "date_of_first_project": "23/07/2019"
+    },
+    {
+        "employer_identification_number": "27-5964510",
+        "company_name": "Devbug",
+        "sector": "Basic Industries",
+        "company_address": "6272 Erie Hill",
+        "automation_tool": "Blueprism",
+        "annual_automation_saving": "$1067892.54",
+        "date_of_first_project": "29/03/2018"
+    },
+    {
+        "employer_identification_number": "96-4637568",
+        "company_name": "Edgeblab",
+        "sector": "Consumer Non-Durables",
+        "company_address": "5431 Sullivan Hill",
+        "automation_tool": "Blueprism",
+        "annual_automation_saving": "$5403821.46",
+        "date_of_first_project": "13/04/2019"
+    },
+    {
+        "employer_identification_number": "64-9788583",
+        "company_name": "Wordify",
+        "sector": "Consumer Non-Durables",
+        "company_address": "57 Sommers Circle",
+        "automation_tool": "Other",
+        "annual_automation_saving": "$7331356.11",
+        "date_of_first_project": "11/04/2019"
+    },
+    {
+        "employer_identification_number": "24-7240266",
+        "company_name": "Jayo",
+        "sector": "n/a",
+        "company_address": "90058 Dayton Parkway",
+        "automation_tool": "Microsoft Power Automate",
+        "annual_automation_saving": "$4620561.38",
+        "date_of_first_project": "08/08/2017"
+    },
+    {
+        "employer_identification_number": "26-4295742",
+        "company_name": "Kwideo",
+        "sector": "Consumer Services",
+        "company_address": "1549 Trailsway Court",
+        "automation_tool": "Microsoft Power Automate",
+        "annual_automation_saving": "$3296311.62",
+        "date_of_first_project": "25/10/2021"
+    },
+    {
+        "employer_identification_number": "88-7839321",
+        "company_name": "Mycat",
+        "sector": "n/a",
+        "company_address": "78 Oriole Center",
+        "automation_tool": "Python",
+        "annual_automation_saving": "$2937135.67",
+        "date_of_first_project": "16/08/2021"
+    },
+    {
+        "employer_identification_number": "29-9087053",
+        "company_name": "Tambee",
+        "sector": "Capital Goods",
+        "company_address": "4 John Wall Trail",
+        "automation_tool": "Automation Anywhere",
+        "annual_automation_saving": "$1865307.63",
+        "date_of_first_project": "07/11/2018"
+    },
+    {
+        "employer_identification_number": "87-6690084",
+        "company_name": "Fivespan",
+        "sector": "n/a",
+        "company_address": "15 Maywood Way",
+        "automation_tool": "Automation Anywhere",
+        "annual_automation_saving": "$9906914.72",
+        "date_of_first_project": "01/01/2022"
+    },
+    {
+        "employer_identification_number": "71-1782596",
+        "company_name": "Yakijo",
+        "sector": "Health Care",
+        "company_address": "30 Mallory Road",
+        "automation_tool": "Python",
+        "annual_automation_saving": "$2341585.44",
+        "date_of_first_project": "10/11/2022"
+    },
+    {
+        "employer_identification_number": "86-6277862",
+        "company_name": "Geba",
+        "sector": "Finance",
+        "company_address": "225 Superior Point",
+        "automation_tool": "Microsoft Power Automate",
+        "annual_automation_saving": "$6968103.27",
+        "date_of_first_project": "06/10/2019"
+    },
+    {
+        "employer_identification_number": "18-3244728",
+        "company_name": "Voolia",
+        "sector": "Finance",
+        "company_address": "616 Oak Parkway",
+        "automation_tool": "Microsoft Power Automate",
+        "annual_automation_saving": "$3310207.11",
+        "date_of_first_project": "15/06/2020"
+    },
+    {
+        "employer_identification_number": "65-8087877",
+        "company_name": "Quatz",
+        "sector": "Finance",
+        "company_address": "9762 Gulseth Hill",
+        "automation_tool": "Blueprism",
+        "annual_automation_saving": "$4842136.43",
+        "date_of_first_project": "16/10/2020"
+    },
+    {
+        "employer_identification_number": "33-9694147",
+        "company_name": "Twiyo",
+        "sector": "Health Care",
+        "company_address": "630 Dryden Crossing",
+        "automation_tool": "Microsoft Power Automate",
+        "annual_automation_saving": "$9327271.97",
+        "date_of_first_project": "12/10/2022"
+    },
+    {
+        "employer_identification_number": "37-6153894",
+        "company_name": "Wordtune",
+        "sector": "Health Care",
+        "company_address": "78946 Kedzie Court",
+        "automation_tool": "Microsoft Power Automate",
+        "annual_automation_saving": "$1804201.93",
+        "date_of_first_project": "14/10/2017"
+    },
+    {
+        "employer_identification_number": "47-4450757",
+        "company_name": "Twimbo",
+        "sector": "Capital Goods",
+        "company_address": "90 Rutledge Trail",
+        "automation_tool": "Microsoft Power Automate",
+        "annual_automation_saving": "$6737678.55",
+        "date_of_first_project": "25/11/2021"
+    },
+    {
+        "employer_identification_number": "22-0274256",
+        "company_name": "Skinder",
+        "sector": "n/a",
+        "company_address": "10473 Sachs Court",
+        "automation_tool": "UiPath",
+        "annual_automation_saving": "$8680714.27",
+        "date_of_first_project": "06/04/2022"
+    },
+    {
+        "employer_identification_number": "84-6831613",
+        "company_name": "Thoughtworks",
+        "sector": "Energy",
+        "company_address": "48 Homewood Crossing",
+        "automation_tool": "UiPath",
+        "annual_automation_saving": "$4655062.51",
+        "date_of_first_project": "30/09/2021"
+    },
+    {
+        "employer_identification_number": "62-4801454",
+        "company_name": "Buzzshare",
+        "sector": "Consumer Services",
+        "company_address": "5077 Nobel Terrace",
+        "automation_tool": "Blueprism",
+        "annual_automation_saving": "$6360104.43",
+        "date_of_first_project": "23/06/2020"
+    },
+    {
+        "employer_identification_number": "26-9547060",
+        "company_name": "Dynazzy",
+        "sector": "Miscellaneous",
+        "company_address": "79 Hazelcrest Place",
+        "automation_tool": "Selenium",
+        "annual_automation_saving": "$7529974.85",
+        "date_of_first_project": "03/07/2017"
+    },
+    {
+        "employer_identification_number": "70-2276326",
+        "company_name": "Trupe",
+        "sector": "Finance",
+        "company_address": "03972 Katie Circle",
+        "automation_tool": "UiPath",
+        "annual_automation_saving": "$9471976.68",
+        "date_of_first_project": "06/02/2020"
+    },
+    {
+        "employer_identification_number": "61-2721674",
+        "company_name": "Dabfeed",
+        "sector": "n/a",
+        "company_address": "90 Dahle Plaza",
+        "automation_tool": "Blueprism",
+        "annual_automation_saving": "$4496698.00",
+        "date_of_first_project": "11/09/2018"
+    },
+    {
+        "employer_identification_number": "82-7627032",
+        "company_name": "Aibox",
+        "sector": "Consumer Non-Durables",
+        "company_address": "3 Muir Way",
+        "automation_tool": "Microsoft Power Automate",
+        "annual_automation_saving": "$1946062.00",
+        "date_of_first_project": "04/12/2018"
+    },
+    {
+        "employer_identification_number": "77-0791332",
+        "company_name": "Fivespan",
+        "sector": "Technology",
+        "company_address": "60942 Carioca Place",
+        "automation_tool": "Blueprism",
+        "annual_automation_saving": "$653533.14",
+        "date_of_first_project": "06/12/2017"
+    },
+    {
+        "employer_identification_number": "67-9177929",
+        "company_name": "Janyx",
+        "sector": "n/a",
+        "company_address": "41366 Lawn Trail",
+        "automation_tool": "Automation Anywhere",
+        "annual_automation_saving": "$6412659.51",
+        "date_of_first_project": "07/01/2020"
+    },
+    {
+        "employer_identification_number": "06-2505834",
+        "company_name": "Livefish",
+        "sector": "Health Care",
+        "company_address": "2763 Elka Road",
+        "automation_tool": "Automation Anywhere",
+        "annual_automation_saving": "$2596704.52",
+        "date_of_first_project": "24/12/2019"
+    },
+    {
+        "employer_identification_number": "32-3551328",
+        "company_name": "Jayo",
+        "sector": "Consumer Services",
+        "company_address": "14855 Steensland Hill",
+        "automation_tool": "Python",
+        "annual_automation_saving": "$6146577.21",
+        "date_of_first_project": "18/02/2021"
+    },
+    {
+        "employer_identification_number": "05-7863278",
+        "company_name": "Centidel",
+        "sector": "Consumer Services",
+        "company_address": "2 Sunnyside Court",
+        "automation_tool": "Automation Anywhere",
+        "annual_automation_saving": "$9770055.04",
+        "date_of_first_project": "16/01/2020"
+    },
+    {
+        "employer_identification_number": "99-4164657",
+        "company_name": "Demizz",
+        "sector": "Basic Industries",
+        "company_address": "27 Springs Court",
+        "automation_tool": "Blueprism",
+        "annual_automation_saving": "$493541.05",
+        "date_of_first_project": "02/03/2022"
+    },
+    {
+        "employer_identification_number": "16-9623079",
+        "company_name": "Realpoint",
+        "sector": "Finance",
+        "company_address": "7349 Schlimgen Trail",
+        "automation_tool": "Blueprism",
+        "annual_automation_saving": "$2486671.62",
+        "date_of_first_project": "24/10/2020"
+    },
+    {
+        "employer_identification_number": "99-8600503",
+        "company_name": "Reallinks",
+        "sector": "Finance",
+        "company_address": "43 Mariners Cove Junction",
+        "automation_tool": "Python",
+        "annual_automation_saving": "$8265908.50",
+        "date_of_first_project": "22/05/2021"
+    },
+    {
+        "employer_identification_number": "98-9036902",
+        "company_name": "Devpulse",
+        "sector": "Consumer Services",
+        "company_address": "62905 Merrick Terrace",
+        "automation_tool": "Selenium",
+        "annual_automation_saving": "$966461.53",
+        "date_of_first_project": "24/09/2019"
+    },
+    {
+        "employer_identification_number": "65-0282634",
+        "company_name": "Vimbo",
+        "sector": "Energy",
+        "company_address": "1722 Bonner Place",
+        "automation_tool": "Automation Anywhere",
+        "annual_automation_saving": "$6765637.78",
+        "date_of_first_project": "13/07/2022"
+    },
+    {
+        "employer_identification_number": "66-3798280",
+        "company_name": "Babblestorm",
+        "sector": "Capital Goods",
+        "company_address": "1459 Lighthouse Bay Point",
+        "automation_tool": "Microsoft Power Automate",
+        "annual_automation_saving": "$9737048.66",
+        "date_of_first_project": "24/02/2019"
+    },
+    {
+        "employer_identification_number": "45-0072498",
+        "company_name": "Thoughtblab",
+        "sector": "n/a",
+        "company_address": "56 Ohio Park",
+        "automation_tool": "UiPath",
+        "annual_automation_saving": "$624273.52",
+        "date_of_first_project": "19/03/2021"
+    },
+    {
+        "employer_identification_number": "25-3231762",
+        "company_name": "Jaxworks",
+        "sector": "Capital Goods",
+        "company_address": "1 Bellgrove Trail",
+        "automation_tool": "UiPath",
+        "annual_automation_saving": "$5963046.52",
+        "date_of_first_project": "20/08/2022"
+    },
+    {
+        "employer_identification_number": "56-3594599",
+        "company_name": "Minyx",
+        "sector": "n/a",
+        "company_address": "5 Meadow Valley Alley",
+        "automation_tool": "Other",
+        "annual_automation_saving": "$5314756.74",
+        "date_of_first_project": "09/03/2022"
+    }
+]
